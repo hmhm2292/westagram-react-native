@@ -16,4 +16,4 @@ User is able to write a comment in the feed.
 
 ![Instagram App Copy](https://miro.medium.com/max/492/1*TjhfwXCq5LXeoujVyCDOyg.png)
 
-Instagram App Clone for IOS
+Instagram App Clone for iOS
